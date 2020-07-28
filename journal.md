@@ -2,4 +2,4 @@
 
 Authored by Ariana Cahn
 
-Introduction: This is the introduction to my amazing paper. Based on results from Smith (2009). 
+Introduction: This is the introduction to my amazing paper. Based on results from Smith (2009),DuPre(2012). 
